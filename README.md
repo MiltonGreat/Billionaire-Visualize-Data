@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project utilizes the Billionaires Statistics Dataset (2023) from Kaggle to create an interactive Tableau dashboard. The goal is to explore wealth distribution, demographics, and business sectors of billionaires worldwide, providing meaningful data insights through visualization.
+This project uses the Billionaires Statistics Dataset (2023) to create an interactive Tableau dashboard. The goal is to explore wealth distribution, demographics, and business sectors of billionaires worldwide, providing meaningful data insights through visualization.
 
 ### Project Goals
 
